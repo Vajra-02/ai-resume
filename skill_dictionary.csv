@@ -1,0 +1,35 @@
+skill,category
+python,programming
+java,programming
+c++,programming
+sql,databases
+mysql,databases
+postgresql,databases
+mongodb,databases
+excel,tools
+power bi,tools
+tableau,tools
+git,tools
+docker,cloud
+fastapi,cloud
+mlflow,cloud
+aws,cloud
+pandas,data
+numpy,data
+statistics,data
+data visualization,data
+machine learning,ml
+deep learning,ml
+scikit-learn,ml
+tensorflow,ml
+pytorch,ml
+nlp,ml
+transformers,ml
+hugging face,ml
+spacy,ml
+opencv,ml
+cnn,ml
+yolo,ml
+llm,ml
+rag,ml
+apis,cloud
